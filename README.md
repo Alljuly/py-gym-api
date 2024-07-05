@@ -1,6 +1,6 @@
 # Criação de uma API com FastAPI
 
-## _Projeto guiado do Bootcampo VIVO Python AI Backend Developer_
+## _Projeto guiado do Bootcamp VIVO Python AI Backend Developer_
 
 ### O foco desse projeto é a criação de uma API com o uso da FastAPI
 
