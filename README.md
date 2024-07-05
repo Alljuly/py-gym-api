@@ -1,4 +1,4 @@
-# Criação de uma API com FastAPI e Docker
+# Criação de uma API com FastAPI
 
 ## _Projeto guiado do Bootcampo VIVO Python AI Backend Developer_
 
